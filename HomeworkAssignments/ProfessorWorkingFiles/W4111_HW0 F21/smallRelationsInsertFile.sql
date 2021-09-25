@@ -1,3 +1,5 @@
+use bookexample;
+/*
 delete from prereq;
 delete from time_slot;
 delete from advisor;
@@ -9,6 +11,7 @@ delete from instructor;
 delete from course;
 delete from department;
 delete from classroom;
+*/
 insert into classroom values ('Packard', '101', '500');
 insert into classroom values ('Painter', '514', '10');
 insert into classroom values ('Taylor', '3128', '70');

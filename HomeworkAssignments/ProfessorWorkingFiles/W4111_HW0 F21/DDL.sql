@@ -1,3 +1,5 @@
+use bookexample;
+
 create table classroom
 	(building		varchar(15),
 	 room_number		varchar(7),
